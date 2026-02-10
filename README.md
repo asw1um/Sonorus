@@ -1,0 +1,1 @@
+Arduino uno mini based board, with seperate dac, sd reader, small oled display, 3 buttons, potentiometer UI. will change outer design when possible and code works. FIRST PROJECT to familiarize and develop into gaming mouse.
