@@ -56,7 +56,7 @@ As the code stabilizes and the "outer design" transitions from a breadboard to a
 1. Clone this repository: `git clone https://github.com/asw1um/Sonorus`
 2. Install the required libraries via the Arduino Library Manager.
 3. Connect the hardware as per the schematics in `/docs`.
-4. Flash the `Sonorus.ino` to your Arduino Uno Mini.
+4. Flash the `with_oled.ino` to your Arduino Uno Mini.
 
 ---
 *This is my first project focused on learning embedded systems—feedback on code efficiency and memory management is always welcome!*
