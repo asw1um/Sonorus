@@ -8,11 +8,11 @@
 ---
 
 ## Features
-SD card storage
-Volume Potentiometer
-3 button input for media selection
-Battery life (unresolved due to voltage differences in design, will have to add a voltage regulator and maybe a new battery)
-Scrolling for the song name when exceeding display name (unresolved)
+* SD card storage
+* Volume Potentiometer
+* 3 button input for media selection
+* Battery life (unresolved due to voltage differences in design, will have to add a voltage regulator and maybe a new battery)
+* Scrolling for the song name when exceeding display name (unresolved)
 
 ---
 
