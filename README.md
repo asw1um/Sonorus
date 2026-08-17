@@ -15,7 +15,7 @@ Battery life (unresolved due to voltage differences in design, will have to add 
 
 ---
 
-## 🛠 Hardware Stack (Version 1.0)
+##  Hardware Stack (Version 1.0)
 | Component | Description |
 | :--- | :--- |
 | **Microcontroller** | Metro Mini (ATmega328P) |
@@ -35,17 +35,9 @@ To compile the current code, the following libraries are required:
 
 ---
 
-##  File Structure
-* `/src` - The main `.ino` sketch and logic.
-* `/docs` - Wiring diagrams and hardware schematics.
-* `/assets` - Photos of the evolving outer design.
-
----
-
 ##  Setup & Installation
 1. Clone this repository: `git clone https://github.com/asw1um/Sonorus`
 2. Install the required libraries via the Arduino Library Manager.
-3. Connect the hardware as per the schematics in `/docs`.
 4. Flash the `with_oled.ino` to your Arduino Uno Mini.
 
 ---
